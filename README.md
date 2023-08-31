@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arnel A. Jocosol. A third-year college student who aspires to become a web developer, hailing from the vibrant city of Ormoc, Philippines.</h1>
-<h3 align="center">I'm on a journey to explore the exciting world of web development, turning creative ideas into functional and beautiful websites. With a passion for both design and coding, I aim to create seamless and user-friendly digital experiences.</h3>
+<h1 align="center">Hi 👋, I'm Arnel A. Jocosol.</h1>
+<h3 align="center">A third-year college student who aspires to become a web developer, hailing from the vibrant city of Ormoc, Philippines. I'm on a journey to explore the exciting world of web development, turning creative ideas into functional and beautiful websites. With a passion for both design and coding, I aim to create seamless and user-friendly digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hokosoru&label=Profile%20views&color=0e75b6&style=flat" alt="hokosoru" /> </p>
 
